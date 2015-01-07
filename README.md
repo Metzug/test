@@ -1,1 +1,1 @@
-Hellow World!
+Ruby na blude
